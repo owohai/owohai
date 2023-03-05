@@ -9,7 +9,7 @@ I mostly code in Javascript but I do some Python here and there mostly for the g
 
 ### A little story about me:
 
-Ever since I joined Discord in 2017, I was fascinated with Discord bots and the idea of developing one ~~at the time I dragged someone to do it for me~~ but afterwards I started learning some Javascript from the [spoon-fed](https://en.wiktionary.org/wiki/spoon-feed) code I got. From there onwards, I simply kept adding features and commands to my now defunct [Cookie](https://github.com/owohai?tab=repositories#:~:text=Star-,cookie,-Public) discord bot which to this day I still cherish all the knoweldge and expereince I got from it.
+Ever since I joined Discord in 2017, I was fascinated with Discord bots and the idea of developing one ~~at the time I dragged someone to do it for me~~ but afterwards I started learning some Javascript from the [spoon-fed](https://en.wiktionary.org/wiki/spoon-feed) code I got. From there onwards, I simply kept adding features and commands to my now defunct [Cookie](https://github.com/owohai/cookie) discord bot which to this day I still cherish all the knoweldge and expereince I got from it.
 
 Take care :)
 
