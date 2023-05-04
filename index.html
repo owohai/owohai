@@ -39,10 +39,12 @@
     />
     <link rel="stylesheet" href="./style.css" />
   </head>
-  <body>
+  <body id="content">
     <div>
+    <script>
+    document.getElementById("content").addEventListener('scroll', function(e) {e.preventDefault();};, false);
+</script>
       <link href="./main.css" rel="stylesheet" />
-
       <div class="desktop1-container">
         <div class="desktop1-desktop1">
           <span class="desktop1-text"><span>Hey there! I’m</span></span>
