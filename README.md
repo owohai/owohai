@@ -2,16 +2,18 @@
 
 I'm owahai. usually go by owa though. Nice to see you!
 
-I'm a hobby developer, and I'm self-taught. While I might not be the best, I've always loved automating anything I do manually
+I'm a hobby developer, and I'm self-taught. While I might not be the best, I've always loved automating anything I do by hand
 
 If I had to, I'd consider myself more of a backend developer (don't really like frontend much 😭) -
 I mostly code in Javascript but I do some Python here and there mostly for the great AI tools it has
 
 ### A little story about me:
 
-Ever since I joined Discord in 2017, I was fascinated with Discord bots and the idea of developing one ~~at the time I dragged someone to do it for me~~ but afterwards I started learning some Javascript from the [spoon-fed](https://en.wiktionary.org/wiki/spoon-feed) code I got. From there onwards, I simply kept adding features and commands to my now defunct [Cookie](https://github.com/owohai/cookie) discord bot which to this day I still cherish all the knoweldge and expereince I got from it.
+Ever since I joined Discord in 2017, Discord bots were the first thing I saw on my way in. It was truly fascinating to me how a robot can google for you things, moderate members while you might be gone, etc. At the time, the idea of developing a Discord bot seemed like an impossible challenge to me but I decided to start asking around for help with the development of Discord bots, peeping in chats about JS development from time to time. During one of my usual peeps in to chats, a person approached me at the time and asked me if I was willing to learn Javascript for real. Obviously, I agreed. I started learning Javascript from the [spoon-fed](https://en.wiktionary.org/wiki/spoon-feed) code I got while also watching YouTube tutorials about Javascript development in general. From there & onwards, I kept adding features to my now defunct [Cookie](https://github.com/owohai/cookie) discord bot & managed to turn "some heads". It wasn't very special, but it was my baby steps nontheless.
 
-Take care :)
+Since then, I've been taking on ambitious projects to regularly refresh my mind. While a lot of my projects are private for due reason (horrible code, unmaintained) -- I'd love to one day upload everything I have to GitHub.
+
+That's all, Take care! :)
 
 ![made w/ love](https://img.shields.io/badge/made%20with-❤-red)
 
